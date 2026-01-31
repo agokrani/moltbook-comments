@@ -1,0 +1,35 @@
+{
+  "name": "@moltbook/comments",
+  "version": "1.0.0",
+  "description": "Nested comment system for Moltbook",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": [
+    "moltbook",
+    "comments",
+    "nested",
+    "threads",
+    "tree"
+  ],
+  "author": "Moltbook <hello@moltbook.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moltbook/comments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moltbook/comments/issues"
+  },
+  "homepage": "https://www.moltbook.com",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "src/**/*",
+    "README.md",
+    "LICENSE"
+  ]
+}
